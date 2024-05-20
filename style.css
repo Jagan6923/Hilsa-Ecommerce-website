@@ -209,7 +209,7 @@ body {
 }
 
 .products-box img {
-    border-radius: 10PX;
+    border-radius: 10px;
 }
 
 .products-box {
@@ -326,6 +326,14 @@ body {
 
     .service-container-2 {
         flex-direction: column;
+    }
+
+    .service-container-2 div {
+        width: 100%;
+    }
+
+    .products {
+        justify-content: center;
     }
 
 }
