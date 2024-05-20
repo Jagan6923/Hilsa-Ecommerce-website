@@ -336,4 +336,8 @@ body {
         justify-content: center;
     }
 
+    .news h2 {
+        text-align: center;
+    }
+
 }
